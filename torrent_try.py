@@ -1,5 +1,5 @@
 '''
-TODO : 	1. Make GUI more beautifull ^^
+TODO : 	1. Make GUI more beautifull ^^ !!!!!!! USE PYQT!!!!
 	2. Add list of existing torrents from db or filesystem
 	3. Add support of choosing dir fo downloaded file functionality
 '''
